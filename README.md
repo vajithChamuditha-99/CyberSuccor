@@ -3,4 +3,4 @@ Final year research project - Intelligence Technique for Sinhala Language Cyberb
 
 
 
-[embed]https://github.com/vajithChamuditha-99/CyberSuccor/blob/main/CyberSuccor%20-%20RP.pdf[/embed]
+[tt]https://github.com/vajithChamuditha-99/CyberSuccor/blob/main/CyberSuccor%20-%20RP.pdf
